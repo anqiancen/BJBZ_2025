@@ -1,0 +1,10 @@
+.venv/
+.vscode/
+.obsidian/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+Thumbs.db
+.DS_Store
